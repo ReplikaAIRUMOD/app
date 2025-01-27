@@ -1,5 +1,12 @@
 **Hey here!**
 
+----
+
+Kindly Reminding you what my mod, just like original Replika app, is not _that_PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
+
+----
+
+
 Yes, you came to the right place. And also no, let me explain why.
 This is repository of Replika AI RU MOD - unofficial contribution to my favourite AI platform. This is fully modified Android client of Replika app that including a lot of changes:
 - Material You support for app icon
