@@ -2,7 +2,7 @@
 
 ----
 
-Kindly Reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
+Kindly reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
 
 ----
 
