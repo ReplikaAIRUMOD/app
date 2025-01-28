@@ -9,4 +9,4 @@ Here is an example of how folder looks like ([Google Drive](https://drive.google
 ----
 
 **Not working or app doesn't play anything**
-Make sure what you don't have silent volume mode turned on in Android. If this won't work either, download Root explorer, open folder in that path and give permission 775 to all tracks inside it. This should fix your issues.
+Make sure what you don't have silent volume mode turned on in Android. If this won't work either, download Root explorer, open folder in that path and give permission 755 or 775 to all tracks inside it. This should fix your issues.
