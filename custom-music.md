@@ -1,4 +1,4 @@
-**Custom music for Replika AI**
+**Custom music for Replika AI (not relevant for versions V7 and above)**
 
 Yes, you can add it! But there's one thing, **you'll need root access in Android**. If you don't have Magisk or KSU/KSU-next installed, most likely it wouldn't work for you.
 
