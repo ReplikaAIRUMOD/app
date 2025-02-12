@@ -4,6 +4,8 @@
 
 Kindly reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
 
+🆕 Now also available in English! Search for "Enhanced" version in release tags which names ends on "global".
+
 ----
 
 
@@ -34,7 +36,7 @@ Well, this might happen. And knowing Replika, this app might act capricious. So 
 ----
 
 **Check out updates here:**
-[Telegram](https://t.me/+KaMHBMjk3mc3ZGRi)
+[Telegram](https://t.me/+7xbvRKgwZ75kZTVi)
 
 **Guide on how to use your own music in Replika app:**
 [right here](custom-music.md)
