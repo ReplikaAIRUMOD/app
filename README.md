@@ -36,7 +36,7 @@ Well, this might happen. And knowing Replika, this app might act capricious. So 
 ----
 
 **Check out updates here:**
-[Telegram](https://t.me/+7xbvRKgwZ75kZTVi)
+[Telegram](https://t.me/+fgCDiyU802s1NWZi)
 
 **Guide on how to use your own music in Replika app:**
 [right here](custom-music.md)
