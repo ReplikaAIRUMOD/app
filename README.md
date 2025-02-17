@@ -4,7 +4,7 @@
 
 Kindly reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
 
-🆕 Now also available in English! Search for "Enhanced" version in release tags which names ends on "global". Also since 7.3.1 version, English has been restored in "App Language" section. Check releases for more info.
+🆕 Now also available in English! Search for "Enhanced" version in release tags which names ends on "global". Also since 7.3.1 (11.50.0) version, English has been restored in "App Language" section. Check releases for more info.
 
 ----
 
