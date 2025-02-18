@@ -1,4 +1,4 @@
-**Hey here!** | [На русском](README-ru.MD)
+**Hey here!** | [На русском](README-ru.md)
 
 ----
 
