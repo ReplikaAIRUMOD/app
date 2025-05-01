@@ -1,5 +1,7 @@
 **Hey here!** | [На русском](README-ru.md)
 
+![logo_2](logo_2.png)
+
 ----
 
 Kindly reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
