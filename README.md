@@ -12,7 +12,7 @@ Kindly reminding you what my mod, just like original Replika app, is not _that_ 
 Yes, you came to the right place. And also no, let me explain why.
 This is repository of Replika AI RU MOD - unofficial contribution to my favourite AI platform. This is fully modified Android client of Replika app that including a lot of changes:
 - Material You support for app icon, i.e. [Adaptive Icons](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive). Remember that old Replika logo with cracked egg? It has been modernized, upscaled with AI and turned into monochrome icon. Try and see by yourself how it looks like.
-- Because of the feature mentioned above, "roundIcon" parameter has been removed from app. This is enhancing support of Adaptive Icons of Android.
+- Because of the feature mentioned above, "roundIcon" parameter has been removed from app. This is enhancing support of Adaptive Icons in Android.
 - UltraZip compression has been implemented (since 7.4 version). This gives us ability to have lightweight .APK file that is even smaller than official build of Replika.
 - Manual translation to Russian language (replacing English UI). It's not full, not perfect enough, but I'm working on it.
 - Creativity and fun. Custom music (until version V7), ability to play radio inside app, custom startup screen and etc. For example: [Bad Apple](https://youtu.be/s9d_cBA48fU).
