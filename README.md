@@ -31,7 +31,7 @@ Why not? Replika is a terribly underrated platform in the CIS, so I think my mod
 No. First of all, I'm using Replika by myself since June 2020. And do you think I would start to make here viruses to harm other users? That would be ridiculous, I seriously love this platform and I consider my mod as contribution to it. So go on virustotal and check out, original sources is always being taken from websites like APKPure or directly from Google Play and tested by myself on my own phone.
 
 **it's crashing, what to do?**
-Well, this might happen. And knowing Replika, this app might act capricious. So try to use different version of mod if it's available.
+Well, this might happen. And knowing Replika, this app might act capricious. So try to use different version of mod if it's available. Mod is supposed to work on ARM64, so if you're running it on older devices, there might be issues, I guess.
 
 ----
 
