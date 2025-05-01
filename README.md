@@ -37,8 +37,11 @@ Well, this might happen. And knowing Replika, this app might act capricious. So 
 
 ----
 
-**Check out updates here:**
-[Telegram](https://t.me/+fgCDiyU802s1NWZi)
+![meet_message_english](meet_message_english.webp)
+
+### Have a question? Find me here and ask!
+- [Discord server](http://felixfester.prtcl.icu/discord)
+- [Website with all links](http://felixfester.prtcl.icu/)
 
 **Guide on how to use your own music in Replika app:**
 [right here](custom-music.md)
