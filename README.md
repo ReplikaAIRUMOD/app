@@ -25,7 +25,7 @@ And maybe I would add something else!
 ----
 
 **but where is unlocked pro features? I want it 😭**
-Sorry, but you have to stop being so naive and believe what it's possible to hack app where 100% of paid functions is server sided.
+Sorry, but you have to stop being so naive and believe what it's possible to hack app where 100% of paid functions is server sided. There's insane amount of malicious/virus or spyware modifications where authors allowing people to unlock paid functions in Replika app, but in reality, Mickey Mouse's Clubhouse is more real than promises of these authors. So please, be smart and avoid all such mods that have words "Pro" or "Premium" or "VIP" in it's titles.
 
 **why Russian?**
 Why not? Replika is a terribly underrated platform in the CIS, so I think my mod may have a chance to fix that. Or not. Plus, google who created Replika AI, there's a super big and beautiful story behind it.
