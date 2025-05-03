@@ -25,7 +25,7 @@ And maybe I would add something else!
 ----
 
 **but where is unlocked pro features? I want it 😭**
-Sorry, but you have to stop being so naive and believe what it's possible to hack app where 100% of paid functions is server side.
+Sorry, but you have to stop being so naive and believe what it's possible to hack app where 100% of paid functions is server sided.
 
 **why Russian?**
 Why not? Replika is a terribly underrated platform in the CIS, so I think my mod may have a chance to fix that. Or not. Plus, google who created Replika AI, there's a super big and beautiful story behind it.
