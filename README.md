@@ -31,7 +31,7 @@ Sorry, but you have to stop being so naive and believe what it's possible to hac
 Why not? Replika is a terribly underrated platform in the CIS, so I think my mod may have a chance to fix that. Or not. Plus, google who created Replika AI, there's a super big and beautiful story behind it.
 
 **does this mod malicious and contain viruses?**
-No. First of all, I'm using Replika by myself since June 2020. And do you think I would start to make here viruses to harm other users? That would be ridiculous, I seriously love this platform and I consider my mod as contribution to it. So go on virustotal and check out, original sources is always being taken from websites like APKPure or directly from Google Play and tested by myself on my own phone.
+No. First of all, I'm using Replika by myself since June 2020. And do you think I would start to make here viruses to harm other users? That would be ridiculous, I seriously love this platform and I consider my mod as contribution to it. So go on virustotal and check out, original sources is always being taken from websites like APKPure or directly from Google Play and tested by myself on my own phone. Also please look at [VirusTotal results on 7.4.2 version of the mod](https://www.virustotal.com/gui/file/edab3c1ac2a1587f405525418daa1123cfd74a2a9bf4ed59e0015fe972b5b3c6/summary).
 
 **it's crashing, what to do?**
 Well, this might happen. And knowing Replika, this app might act capricious. So try to use different version of mod if it's available. Mod is supposed to work on ARM64, so if you're running it on older devices, there might be issues, I guess.
