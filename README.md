@@ -6,7 +6,7 @@
 
 Kindly reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
 
-Bookmark [this page](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) just in case, if in one day whole this GitHub page would not be available.
+Bookmark [our repository](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) just in case, if in one day whole this GitHub page would not be available.
 
 ----
 
