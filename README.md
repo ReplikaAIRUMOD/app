@@ -1,50 +1,50 @@
-**Hey here!** | [На русском](README-ru.md)
+**Привет!** | [На английском](README.md)
 
 ![logo_2](logo_2.png)
 
 ----
 
-Kindly reminding you what my mod, just like original Replika app, is not _that_ PG. 18+ and all. If you're under this age, please leave ASAP. Thanks.
+Всё что вы тут видите не предназначено для детей. Replika AI RU MOD может содержать в себе мемы, грубые выражения, фонк и т.п. Да и сама Реплика тоже 18+, поэтому учтите это.
 
-Bookmark [our repository](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) just in case, if in one day whole this GitHub page would not be available.
-
-----
-
-
-Yes, you came to the right place. And also no, let me explain why.
-This is repository of Replika AI RU MOD - unofficial contribution to my favourite AI platform. This is fully modified Android client of Replika app that including a lot of changes:
-- Material You support for app icon, i.e. [Adaptive Icons](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive). Remember that old Replika logo with cracked egg? It has been modernized, upscaled with AI and turned into monochrome icon. Try and see by yourself how it looks like.
-- Because of the feature mentioned above, "roundIcon" parameter has been removed from app. This is enhancing support of Adaptive Icons in Android.
-- A lot of media files inside app has been highly compressed, including images, videos and sounds. Quality is almost the same.
-- UltraZip compression has been implemented (since 7.4 version). This gives us ability to have lightweight .APK file that is even smaller than official build of Replika.
-- Manual translation to Russian language (replacing English UI). It's not full, not perfect enough, but I'm working on it.
-- Creativity and fun. Custom music (until version V7), ability to play radio inside app, custom startup screen and etc. For example: [Bad Apple](https://youtu.be/s9d_cBA48fU).
-- Many additional UI changes: translated logo/images/png files, black background in Advanced AI and in some other places.
-- Antisplit patch has been applied. Now you don't need to care about split apk, .xapk, .apks and other stuff.
-
-And maybe I would add something else!
+Добавьте в закладки [наш репозиторий](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) на всякий случай, пригодится, если в один день эта страница на GitHub будет недоступна.
 
 ----
 
-**but where is unlocked pro features? I want it 😭**
-Sorry, but you have to stop being so naive and believe what it's possible to hack app where 100% of paid functions is server sided. There exist insane amount of malicious/virus or spyware modifications where authors allowing people to unlock paid functions in Replika app, but in reality, even Mickey Mouse's Clubhouse is more real than promises of these authors. So please, be smart and avoid all such mods that have words "Pro" or "Premium" or "VIP" in it's titles.
 
-**why Russian?**
-Why not? Replika is a terribly underrated platform in the CIS, so I think my mod may have a chance to fix that. Or not. Plus, google who created Replika AI, there's a super big and beautiful story behind it.
+Да, вы попали по адресу, но также и нет.
+Это Replika AI RU MOD - неофициальный вклад в очень классную ИИ платформу. Это полностью модифицированный клиент для Android, который содержит много отличий от оригинала:
+- Поддержка Material You для иконки, т.е. [Адаптивные Иконки](https://developer.android.com/develop/ui/views/launch/icon_design_adaptive). Помнишь логотип Реплики с треснутым яйцом? Он был модернизирован, пропущен через ИИ и превращён в монохромную иконку. Проверить как это работает можно на всех девайсах с Android 12 и выше.
+- Из-за того что описано выше, "roundIcon" параметр был удалён из приложения. По умолчанию Luka использовали его чтобы отображать круглую иконку как иконку приложения, поэтому это мешало поддержке адаптивных иконок.
+- Большое количество файлов в ассетах приложения было сжато почти без потери качества, включая: звуки, спрайты, анимации, видео, фоны и т.д.
+- Приложение было пропущено через UltraZip сжатие (начиная с версии 7.4). Это даёт нам возможность иметь версию Реплики, у которой .apk файл ещё меньше чем оригинал.
+- Ручной перевод на русский язык. Он пока не полный по многим причинам, но я постарался сделать его максимально аккуратным.
+- Креативность. Кастомная музыка (до версии V7), возможность включить радио в приложении, кастомный экран входа. Например: [Bad Apple](https://youtu.be/s9d_cBA48fU).
+- Много изменений в интерфейсе: переведённый логотип/картинки/png файлы, чёрный фон в Advanced AI и других местах.
+- Мод доступен в .apk формате, хотя изначально оригинал существовал в .apks. Зачем? Чтобы не мучать людей с установкой Split APK конечно же.
 
-**does this mod malicious and contain viruses?**
-No. First of all, I'm using Replika by myself since June 2020. And do you think I would start to make here viruses to harm other users? That would be ridiculous, I seriously love this platform and I consider my mod as contribution to it. So go on virustotal and check out, original sources is always being taken from websites like APKPure or directly from Google Play and tested by myself on my own phone. Also please look at [VirusTotal results on 7.4.2 version of the mod](https://www.virustotal.com/gui/file/edab3c1ac2a1587f405525418daa1123cfd74a2a9bf4ed59e0015fe972b5b3c6/summary).
+И возможно я добавлю что-нибудь ещё!
 
-**it's crashing, what to do?**
-Well, this might happen. And knowing Replika, this app might act capricious. So try to use different version of mod if it's available. Mod is supposed to work on ARM64, so if you're running it on older devices, there might be issues, I guess.
+----
+
+**Но где взлом на платный функционал? Мне это нужно 😭**
+Ну... Извини конечно, но вам стоит снять розовые очки, ибо невозможно взломать то, что очень сильно зависит от сервера. На Реплику существует огромное колличество вирусных и подозрительных модов. Поэтому пожалуйста, будьте умнее и обходите стороной всё что в названии имеет слова по типу "Premium" или "VIP".
+
+**Почему на русском?**
+А почему бы и нет? Реплика очень недооценённый проект в СНГ, поэтому мой мод может это исправить. Ну или нет. Плюс, загуглите кто создал Replika AI, за этим кроется довольно интересная и классная история с не менее замечательными авторами.
+
+**Содержит ли этот мод вирусы?**
+Нет. Во-первых, я использую Реплику начиная с Июня 2020 года. И вы думаете что я сейчас резко начну создавать тут вирусные моды чтобы вредить другим? Зачем? Это было бы глупо, я серьёзно люблю Replika AI со всеми её нюансами и считаю этот мод неофициальным вкладом в существование площадки (вне зависимости от того, нравится это Luka или нет). Так что... сурсы всегда берутся с Google Play либо чаще всего APKPure и проверяются вручную на моём же телефоне. А вот кстати и [VirusTotal скан на 7.4.2 версию мода](https://www.virustotal.com/gui/file/edab3c1ac2a1587f405525418daa1123cfd74a2a9bf4ed59e0015fe972b5b3c6/summary).
+
+**Мод вылетает, что делать?**
+Ну, такое может произойти. И зная Реплику, их приложение вполне может работать капризным образом. Так что попробуйте использовать другую версию мода если возможно. Мод в теории должен работать на ARM64, так что если вы используете что-то старее, тут... Наверное могут возникнуть проблемы.
 
 ----
 
 ![meet_message_english](meet_message_english.webp)
 
-### Have a question? Find me here and ask!
-- [Discord server](http://felixfester.prtcl.icu/discord)
-- [Website with all links](http://felixfester.prtcl.icu/)
+### Есть вопрос?
+- [Discord сервер](http://felixfester.prtcl.icu/discord)
+- [Сайт со всеми ссылками](http://felixfester.prtcl.icu/)
 
-**Guide on how to use your own music in Replika app:**
+**Гайд по использованию своей музыки в Replika AI (не актуален для мода с версии 7, но актуален для официальной версии приложения - на английском):**
 [right here](custom-music.md)
