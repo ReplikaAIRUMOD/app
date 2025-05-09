@@ -45,6 +45,8 @@
 - [Скачать с GitHub](https://github.com/ReplikaAIRUMOD/app/releases)
 - [Скачать с офф.сайта](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) | [зеркало](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/ReplikaAIMOD/index.php)
 
+Обновления чаще всего обычно выходят только на офф.сайте и GitHub.
+
 ----
 
 ![meet_message_english](meet_message_english.webp)
