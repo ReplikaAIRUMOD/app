@@ -10,6 +10,8 @@
 
 А ещё заходите в сабреддит [ReplikaAIMOD](https://www.reddit.com/r/ReplikaAIMOD/s/D3yTVDkTTd). В основном он существует на английском, чтобы о моде узнало больше людей, однако ничего не мешает вам писать там на русском.
 
+***
+
 If you're a newcomer and don't understand everything what's written here, [on the website](https://felixfester.prtcl.icu/index.php?page=replikamod) there is a bit more detailed description in English.
 
 ----
