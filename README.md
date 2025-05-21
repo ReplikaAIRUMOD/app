@@ -44,7 +44,7 @@
 
 - [Скачать с Appteka](https://appteka.store/app/79dr228539)
 - [Скачать с 4PDA](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) (см. последние сообщения в треде либо используйте поиск)
-- [Скачать с GitHub](https://github.com/ReplikaAIRUMOD/app/releases)
+- [Скачать с GitHub](https://github.com/ReplikaAIRUMOD/app/releases) | [Все версии включая beta](https://github.com/ReplikaAIRUMOD/app/releases)
 - [Скачать с офф.сайта](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) | [зеркало](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/ReplikaAIMOD/index.php)
 
 Обновления чаще всего обычно выходят только на офф.сайте и GitHub.
