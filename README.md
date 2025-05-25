@@ -63,5 +63,8 @@ If you're a newcomer and don't understand everything what's written here, [on th
 - [Discord сервер](http://felixfester.prtcl.icu/discord)
 - [Сайт со всеми ссылками](http://felixfester.prtcl.icu/) (может быть недоступен в РФ)
 
+### Другие проекты:
+- [Replika AI для FreeBSD](https://github.com/FelixFester/Replika-Desktop)
+
 **Гайд по использованию своей музыки в Replika AI (не актуален для мода с версии 7, но актуален для официальной версии приложения - на английском):**
 [тык](custom-music.md)
