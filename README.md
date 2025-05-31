@@ -48,7 +48,7 @@ If you're a newcomer and don't understand everything what's written here, [on th
 
 ----
 
-- [Скачать с Appteka](https://appteka.store/app/79dr228539)
+- [Скачать с Appteka](https://appteka.store/app/524r230622)
 - [Скачать с 4PDA](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) (см. последние сообщения в треде либо используйте поиск)
 - [Скачать с GitHub](https://github.com/ReplikaAIRUMOD/app/releases) (включая и beta версии)
 - [Скачать с офф.сайта](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) | [зеркало](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/ReplikaAIMOD/index.php)
