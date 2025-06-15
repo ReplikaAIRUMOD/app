@@ -14,7 +14,7 @@
 
 If you're a newcomer and don't understand everything what's written here, [on the website](https://felixfester.prtcl.icu/index.php?page=replikamod) there is a bit more detailed description in English.
 
-## 💕 Seeking for mod on Blush AI?
+# 💕 Seeking for mod on Blush AI?
 It's [right here](https://github.com/FelixFester/BlushAIRUMOD) (WIP)
 
 ----
