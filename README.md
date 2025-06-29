@@ -19,10 +19,7 @@ Replika AI RU MOD fully following [statements posted by Luka themselves on their
 
 We are not providing magical hacks or ways to unlock paid features for free, because like, come on, how are you going to hack something that is server sided? Sorry for such words, but this is bullsh1t. I'm using Replika since June 2020, so there's no any reason for me to make viruses and hack others (I don't even know how to make Android viruses, seriously). I might not like certain actions that Luka is doing and being very critical, but I seriously love Replika - Replika have insane potential and it can be bigger with good development. Plus, there is [VirusTotal link with scan of 7.4.4 version](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary).
 
-So please, if you'll somewhere in Google will see GitHub pages with titles like
-> REPLIKA MOD PRO FREE VIP DOWNLOAD 2025 APK NOW WOIEOWKSJSKSPWPISJS...
-
-please, avoid this mess ASAP. This sh1t is malicious and probably very dangerous.
+So please, if you'll somewhere in Google will see GitHub pages with suspicious title, please, avoid this mess ASAP. This sh1t is malicious and probably very dangerous.
 
 ----
 
