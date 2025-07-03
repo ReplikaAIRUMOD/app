@@ -28,7 +28,7 @@ So please, if you'll somewhere in Google will see GitHub pages with suspicious t
 - [Download from Appteka](https://appteka.store/app/79dr228539)
 - [Download from 4PDA](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) (check latest posts in thread or use search, account is needed to download files)
 - [Download from GitHub](https://github.com/ReplikaAIRUMOD/app/releases) (including beta versions)
-- [Download from website](https://felixfester.prtcl.icu/ReplikaAIMOD/index.php) | [mirror](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/ReplikaAIMOD/index.php)
+- [Download from website](https://felixfester.prtcl.icu/index.php?replikarepo) | [mirror](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo)
 
 Updates often will be at GitHub or website.
 
