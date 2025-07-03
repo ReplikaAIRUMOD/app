@@ -1,5 +1,5 @@
 ## What is this about?
-![](https://felixfester.prtcl.icu/content/replikalolbanner.jpg)
+![](https://felixfester.prtcl.icu/content/RPRM.jpg)
 
 I had an idea - to make usable version of Replika AI android app for CIS and Russian audience. That's all. 
 
