@@ -29,6 +29,8 @@ So please, if you'll somewhere in Google will see GitHub pages with suspicious t
 
 Updates often will be at GitHub or website.
 
+Legacy version of Replika AI RU MOD might not contain certain features that exists in usual version of the mod or these features might work differently.
+
 ## Ask questions!
 
 - [Reddit](https://www.reddit.com/r/ReplikaAIMOD/s/D3yTVDkTTd)
