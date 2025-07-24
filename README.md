@@ -23,6 +23,7 @@ So please, if you'll somewhere in Google will see GitHub pages with suspicious t
 - [Download from Appteka](https://appteka.store/app/79dr228539)
 - [Download from 4PDA](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) (check latest posts in thread or use search, account is needed to download files)
 - [Download from GitHub](https://github.com/ReplikaAIRUMOD/app/releases) (including beta versions)
+- [Latest 7.4.5 version](https://github.com/ReplikaAIRUMOD/app/releases/tag/11.55.2-7.4.5) (for now abandoned)
 
 Legacy version of Replika AI RU MOD might not contain certain features that exists in usual version of the mod or these features might work differently.
 
