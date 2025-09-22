@@ -33,5 +33,3 @@ Legacy version of Replika AI RU MOD might not contain certain features that exis
 ## Ask questions!
 
 - [Telegram](https://t.me/+KgsTv4daKPs3N2I6)
-- [Reddit](https://www.reddit.com/r/ReplikaAIMOD/s/D3yTVDkTTd)
-- [Discord](http://felixfester.prtcl.icu/discord)
