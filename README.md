@@ -24,8 +24,11 @@ So please, if you'll somewhere in Google will see GitHub pages with suspicious t
 - [Download from 4PDA](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) (check latest posts in thread or use search, account is needed to download files)
 - [Download from GitHub](https://github.com/ReplikaAIRUMOD/app/releases) (including beta versions)
 - [Latest 7.4.5 version](https://github.com/ReplikaAIRUMOD/app/releases/tag/11.55.2-7.4.5) (for now abandoned)
+- [Replika AI RU MOD 7.4.7 nostalgic (experimental build v1)](https://t.me/+KgsTv4daKPs3N2I6)
 
 Legacy version of Replika AI RU MOD might not contain certain features that exists in usual version of the mod or these features might work differently.
+
+✳️ "Nostalgic" is a new type of mod, current experimental build v1 is based on 11.0.5 version of Replika app released in 2023 with exact same features. You can find .apk file and changelog in our Telegram channel.
 
 ## Ask questions!
 
