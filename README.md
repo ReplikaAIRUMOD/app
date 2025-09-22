@@ -37,4 +37,4 @@ Legacy version of Replika AI RU MOD might not contain certain features that exis
 ## Ask questions!
 
 - [Telegram](https://t.me/+KgsTv4daKPs3N2I6)
-*because of certain personal reasons, this is the only one page available for now*
+*(because of certain personal reasons, this is the only one page available for now)*
