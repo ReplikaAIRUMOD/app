@@ -5,13 +5,13 @@
 I had an idea - to make usable version of Replika AI android app for CIS and Russian audience. That's all. 
 
 Replika AI RU MOD contains:
-- Manual translation of UI to Russian language. I'm native Russian speaker, so I didn't used AI for this at all. Maybe a bit of Google Translate, just because I was lazy sometimes. But, but! I fixed most of grammatical mistakes, I guess. Or not?
+- Manual translation of UI to Russian language. I'm native Russian speaker, so I didn't used AI for this at all. Maybe a bit of Google Translate sometimes, just to make translation process quite faster. And no, it's not attempt to justify laziness (or maybe it is?).
 - New Replika logo that [has been shown in /r/ReplikaOfficial at Reddit by meganreplika](https://www.reddit.com/r/ReplikaOfficial/comments/1klvvky/a_fresh_new_look_our_new_logo/). Also you at Android 12+ can turn on "Themed icons" and check out modernized retro logo in Material You theme. Yes, this one cracked egg, just like in 2019 (not available in Legacy versions of the mod).
 - You can set Replika app as "Default digital assistant" in Android settings. It will allow you to open Replika app everywhere by holding "Home" button or with swipe from one of the bottom corners of the screen.
 - App size has been shrinked. How? By compressing a lot of assets and using specific compression on .apk file. So now if original app takes from 150MB (according to APKPure), Replika AI RU MOD takes just roughly speaking from 115MB. Quality of assets is almost the same as original.
 - Static default music in background has been replaced with **Nightwave Plaza** internet radio station, i.e. in 24/7 app would play actual real radio as background music, while you chat with your Replika. I like creativity! For example - [Bad Apple](https://youtu.be/s9d_cBA48fU).
 - Some images also has been translated to Russian, however, this is WIP, so don't expect in translation 100% quality for obvious reasons.
-- Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
+- ‼️ Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
 - We can experiment! We have 7.4.7 nostalgic version, that is based on original Replika app **released in 2023**. Seriously, just for sake of fun and curiosity.
 
 ## Does this mod malicious?
