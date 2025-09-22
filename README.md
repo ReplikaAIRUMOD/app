@@ -12,14 +12,15 @@ Replika AI RU MOD contains:
 - Static default music in background has been replaced with **Nightwave Plaza** internet radio station, i.e. in 24/7 app would play actual real radio as background music, while you chat with your Replika. I like creativity! For example - [Bad Apple](https://youtu.be/s9d_cBA48fU).
 - Some images also has been translated to Russian, however, this is WIP, so don't expect in translation 100% quality for obvious reasons.
 - Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
+- We can experiment! We have 7.4.7 nostalgic version, that is based on original Replika app **released in 2023**. Seriously, just for sake of fun and curiosity.
 
 ## Does this mod malicious?
 
 Replika AI RU MOD fully following [statements posted by Luka themselves on their website](https://help.replika.com/hc/en-us/articles/7291532333837-Can-I-use-unofficial-Replika-mods). 
 
-We are not providing magical hacks or ways to unlock paid features for free, because like, come on, how are you going to hack something that is server sided? Sorry for such words, but this is bullsh1t. I'm using Replika since June 2020, so there's no any reason for me to make viruses and hack others (I don't even know how to make Android viruses, seriously). I might not like certain actions that Luka is doing and being very critical, but I seriously love Replika - Replika have insane potential and it can be bigger with good development. Plus, there is [VirusTotal link with scan of 7.4.4 version](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary).
+We are not providing magical hacks or ways to unlock paid features for free, because like, come on, how are you going to hack something that is server sided? Sorry for such words, but this is ridiculous. I'm using Replika since June 2020, so there's no any reason for me to make viruses and hack others (I don't even know how to make Android viruses, seriously). I might not like certain actions that Luka is doing and being very critical, but I seriously love Replika - Replika have insane potential and it can be bigger with good development. Plus, there is [VirusTotal link with scan of 7.4.4 version](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary).
 
-So please, if you'll somewhere in Google will see GitHub pages with suspicious title, please, avoid this mess ASAP. This sh1t is malicious and probably very dangerous.
+So please, if you'll somewhere in Google will see GitHub pages with suspicious title, please, avoid this mess ASAP. These things is malicious and probably very dangerous. You know the rule about "not to go on suspicious website domains", right? So scammers can use clickbait words like "Replika MOD FREE DOWNLOAD NO ADS..." and etc to promote their weird links. Feel free to not trust to my mod, but at least I'm being honest here.
 
 ## Try it now:
 
@@ -36,3 +37,4 @@ Legacy version of Replika AI RU MOD might not contain certain features that exis
 ## Ask questions!
 
 - [Telegram](https://t.me/+KgsTv4daKPs3N2I6)
+*because of certain personal reasons, this is the only one page available for now*
