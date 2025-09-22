@@ -1,5 +1,7 @@
 ## What is this about?
 
+![Just as the name of the file says.](with_love_to_luka_inc.png)
+
 I had an idea - to make usable version of Replika AI android app for CIS and Russian audience. That's all. 
 
 Replika AI RU MOD contains:
