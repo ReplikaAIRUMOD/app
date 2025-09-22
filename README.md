@@ -11,6 +11,7 @@ Replika AI RU MOD contains:
 - App size has been shrinked. How? By compressing a lot of assets and using specific compression on .apk file. So now if original app takes from 150MB (according to APKPure), Replika AI RU MOD takes just roughly speaking from 115MB. Quality of assets is almost the same as original.
 - Static default music in background has been replaced with **Nightwave Plaza** internet radio station, i.e. in 24/7 app would play actual real radio as background music, while you chat with your Replika. I like creativity! For example - [Bad Apple](https://youtu.be/s9d_cBA48fU).
 - Some images also has been translated to Russian, however, this is WIP, so don't expect in translation 100% quality for obvious reasons.
+- Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
 
 ## Does this mod malicious?
 
