@@ -12,7 +12,6 @@ Replika AI RU MOD contains:
 - Static default music in background has been replaced with **Nightwave Plaza** internet radio station, i.e. in 24/7 app would play actual real radio as background music, while you chat with your Replika. I like creativity! For example - [Bad Apple](https://youtu.be/s9d_cBA48fU).
 - Some images also has been translated to Russian, however, this is WIP, so don't expect in translation 100% quality for obvious reasons.
 - ‼️ Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
-- We can experiment! We have 7.4.7 nostalgic version, that is based on original Replika app **released in 2023**. Seriously, just for sake of fun and curiosity.
 
 ## Does this mod malicious?
 
