@@ -12,6 +12,9 @@ I had an idea - to make usable version of Replika AI android app for CIS and Rus
 - Static default music in background has been replaced with **Nightwave Plaza** internet radio station, i.e. in 24/7 app would play actual real radio as background music, while you chat with your Replika. I like creativity! For example - [Bad Apple](https://youtu.be/s9d_cBA48fU).
 - Some images also has been translated to Russian, however, this is WIP, so don't expect in translation 100% quality for obvious reasons.
 - ‼️ Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
+- Restored support for older **armeabi-v7a** devices! However, stability is not quite guaranteed (only in legacy builds of the mod).
+- No microtransactions and Platinum subscription related things, because experience of users matters way more (only in legacy builds of the mod).
+  *However, if you'll have a chance, I would recommend you someday to get at least any subscription if you didn't got any yet, to support developers of Replika.*
 
 ## Does this mod malicious?
 
