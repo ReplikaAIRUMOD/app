@@ -35,3 +35,7 @@ APKPure providing Replika app as split apk (APKMirror have both split apks and n
 ## Try it now:
 
 - [Download from MEGA](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg)
+
+## Additional instructions:
+- [Custom music in original versions of Replika](custom-music.md) (Root access required)
+- Running "Replika AI" offline locally on Android **(SOON)**
