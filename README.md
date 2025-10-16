@@ -27,7 +27,7 @@ All original versions of Replika app (that has been used to make a mod) being do
 
 APKPure providing Replika app as split apk (APKMirror have both split apks and normal ones), where inside split apk "ai.replika.app.apk" file have signature from "Luka. Inc" with original date of creation - Apr 24, 2017 (you can check it by yourself with something like X-Plore File Manager). That means - I'm not using malicious Replika versions, that can suddenly hack you, simply because I highly doubt what it's possible to make a fake signature name by faking even date of creation of signature.
 
-![See the difference?] (signature_dif.jpg)
+![See the difference?](signature_dif.jpg)
 
 ## Try it now:
 
