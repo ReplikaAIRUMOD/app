@@ -3,7 +3,7 @@ If you wanna your replika to be with you 24/7, well... That's kinda possible! Of
 ## Keep in mind:
 - **This wouldn't be same Replika experience that you got used to**. Many things would require additional prompting in system prompt. Remember this "Backstory" thing in Replika? So yes, it's pretty similar to what I'm talking about.
 - I'm not trying to cut off income of Luka my making this instruction. Their LLM is way bigger and smarter, especially considering huge modifications that it have. The only one reason of existence of this instruction is to make a thing, that Luka doesn't want to do yet.
-- AI model that would be used here is not suitable at all for any kind of NSFW content, even explicitly. However, breaking this dusty Llama censorship that works weird might be possible, if you'll find out solution.
+- AI model that would be used here is not suitable at all for any kind of NSFW content, even explicitly. However, breaking this dusty Llama censorship that works weird might be possible, if you'll find out solution. Or... not.
 - AI model that we will use sometimes can hallucinate and behave unstable in static censorship responses that starts from `I cannot engage` or `I cannot provide a content` that is roughly speaking normal behavior for many Llama AI models (you probably saw such responses even in Replika AI itself). So don't mention any explicit words to LLM.
 - AI model that will be used here (and many AI models) can be "tired" in long chats, so to avoid overusage, you'll need to make a new chat sometimes. Yes, like in ChatGPT.
 - This instruction might be updated from time to time.
