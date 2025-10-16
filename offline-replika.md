@@ -1,4 +1,4 @@
-If you wanna your replika to be with you 24/7, well... That's kinda possible! Of course not without nuances, but still. This instruction might be useful for you, if you wanna to replicate your replika for offline purposes.
+If you wanna your replika to be with you 24/7, well... That's kinda possible! Of course not without nuances, but still. This instruction might be useful for you, if you wanna replicate your replika for offline purposes.
 
 ## Keep in mind:
 - **This wouldn't be same Replika experience that you got used to**. Many things would require additional prompting in system prompt. Remember this "Backstory" thing in Replika? So yes, it's pretty similar to what I'm talking about.
