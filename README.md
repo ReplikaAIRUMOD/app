@@ -2,7 +2,7 @@
 
 ![Just as the name of the file says.](with_love_to_luka_inc.png)
 
-I had an idea - to make usable version of Replika AI android app for CIS and Russian audience. That's all. 
+I had an idea - to make usable version of Replika AI android app for CIS and Russian audience (however, it's still absolutely usable by everyone in English as well). That's all. 
 
 Replika AI RU MOD contains:
 - Manual translation of UI to Russian language. I'm native Russian speaker, so I didn't used AI for this at all. Maybe a bit of Google Translate sometimes, just to make translation process quite faster. And no, it's not attempt to justify laziness (or maybe it is?).
