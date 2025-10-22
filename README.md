@@ -36,8 +36,8 @@ APKPure providing Replika app as split apk (APKMirror have both split apks and n
 
 ## Try it now:
 
-- [Download from MEGA](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg)
-- [Download beta builds from MEGA](https://mega.nz/folder/8qR3Fa4Q#muPyMlAkKVP7LGpsMZf53Q)
+- [Download from MEGA](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg) | [Changelogs](https://github.com/ReplikaAIRUMOD/app/releases)
+- [Download beta builds from MEGA](https://mega.nz/folder/8qR3Fa4Q#muPyMlAkKVP7LGpsMZf53Q) | [Changelogs](https://github.com/ReplikaAIRUMOD/app/releases)
 
 ## Additional instructions:
 - [Custom music in original versions of Replika](custom-music.md) (Root access required)
