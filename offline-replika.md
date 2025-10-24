@@ -25,7 +25,7 @@ Because locally working **offline** AI models is super convenient and 100% truly
 Open settings of Llama 3.2 in "Models" section of PocketPal. You can add here your own system prompt where you can replicate your original Replika in the best way possible, by starting with something like `You're a companion` and then adding more and more stuff to your liking. Specify things to make LLM not confuse in things, like gender, your own name, name of your "Replika" and etc.
 
 ## But how to get NSFW content like in Replika?
-Well, it wouldn't be similar experience, but you can try to prompt different LLMs. Open "Models" section in PocketPal, then tap to + button, then to "Add from Hugging Face" and in search find any llama-based model that would work the best for you and download them. I would recommend to try **Perverted_Literature-3.2-1B.Q8_0.** on 1.5 billion parameters or **llama-3.2-1b-instruct-uncensored.Q8_0.** on 1.24 billion parameters.
+Well, it wouldn't be similar experience, but you can try to prompt different LLMs. Open "Models" section in PocketPal, then tap to + button, then to "Add from Hugging Face" and in search find any llama-based model that would work the best for you and download them. I would recommend to try [**Perverted_Literature-3.2-1B.Q8_0.**](https://huggingface.co/mradermacher/Perverted_Literature-3.2-1B-GGUF) on 1.5 billion parameters or [**llama-3.2-1b-instruct-uncensored.Q8_0.**](https://huggingface.co/brittlewis12/Llama-3.2-1B-Instruct-Uncensored-GGUF) on 1.24 billion parameters.
 
 ## Have a question?
 - [Discord](https://discord.gg/ta26tNVW3)
