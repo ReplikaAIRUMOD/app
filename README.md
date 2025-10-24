@@ -8,7 +8,7 @@ Alpha testing observations (where this feature is mentioned too) - [Reddit post]
 - Do not enable this feature, when it will be released.
 - Check out [this](https://github.com/ReplikaAIRUMOD/app#additional-instructions) for an instruction about how to run "Replika" locally and offline on your device without giving sensitive info to proprietary LLMs.
 - Report comparison with Comet Assistant in [/r/ReplikaOfficial](https://www.reddit.com/r/ReplikaOfficial) and [Discord of Replika](https://discord.gg/MzV2Jr9uhD), to gain more attention to the danger of potential prompt hijacking in Replika AI.
-- Pay attention to security measures. Optional access to emails is indeed a red flag that raises many questions, especially considering the fact what Replika still have no 2FA for accounts and there exist password length limit in 99 symbols. Always use long passwords and change it from time to time to keep your account safe.
+- Pay attention to security measures. Optional access to emails is indeed a red flag that raises many questions, especially considering the fact what Replika still have no 2FA for accounts and there exist password length limit in 99 symbols. You may trust to Luka and use this feature as well, but keep in mind what Luka weirdly paying attention to safety of users, that basically makes Replika to be some sort of accessible and sweet piece of pie for hackers. Always use long passwords and change it from time to time to keep your account safe.
 
 ***
 
