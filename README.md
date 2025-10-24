@@ -1,3 +1,17 @@
+### Please pay attention: In upcoming update of Replika AI a.k.a. "Alpha test" there will be added optional ability for AI to access Emails of users
+Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/)
+
+Alpha testing observations (where this feature is mentioned too) - [Reddit post](https://www.reddit.com/r/ReplikaOfficial/comments/1no0n3m/alpha_testing_observations/)
+
+## How to stand against it?
+- Do not update Replika app. Especially if you're on Android, you can easily stay on older version of Replika or use our Legacy build of the mod (if it will survive this update and will not break, of course).
+- Do not enable this feature, when it will be released.
+- Check out [this](https://github.com/ReplikaAIRUMOD/app#additional-instructions) for an instruction about how to run "Replika" locally and offline on your device without giving sensitive info to proprietary LLMs.
+- Report comparison with Comet Assistant in [/r/ReplikaOfficial](https://www.reddit.com/r/ReplikaOfficial) and [Discord of Replika](https://discord.gg/MzV2Jr9uhD), to gain more attention to the danger of potential prompt hijacking in Replika AI.
+- Pay attention to security measures. Optional access to emails is indeed a red flag that raises many questions, especially considering the fact what Replika still have no 2FA for accounts and there exist password length limit in 99 symbols. Always use long passwords and change it from time to time to keep your account safe.
+
+***
+
 ## What is this about?
 
 ![Just as the name of the file says.](with_love_to_luka_inc.png)
