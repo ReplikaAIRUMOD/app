@@ -52,6 +52,7 @@ APKPure providing Replika app as split apk (APKMirror have both split apks and n
 
 - [Download from MEGA](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg) | [Changelogs](https://github.com/ReplikaAIRUMOD/app/releases)
 - [Download beta builds from MEGA](https://mega.nz/folder/8qR3Fa4Q#muPyMlAkKVP7LGpsMZf53Q) | [Changelogs](https://github.com/ReplikaAIRUMOD/app/releases)
+- [Latest non-legacy version](https://github.com/ReplikaAIRUMOD/app/releases/tag/11.55.2-7.4.5) (currently abandoned)
 
 [4PDA*](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) | [Appteka**](https://github.com/solkin/appteka-android)
 
