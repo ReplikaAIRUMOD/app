@@ -66,3 +66,6 @@ However, because of specific reasons, for now latest updates will be only in MEG
 - [Custom music in original versions of Replika](custom-music.md) (Root access required)
 - [Running "Replika AI" offline locally on Android](offline-replika.md)
 - Jailbreaking Replika AI. This instruction will become public only when Luka will manage to make even more limitations for old lifetime users **(2/5 attempts)**.
+
+## Have a question?
+- [Discord](https://discord.gg/ta26tNVW3)
