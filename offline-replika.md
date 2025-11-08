@@ -28,4 +28,4 @@ Open settings of Llama 3.2 in "Models" section of PocketPal. You can add here yo
 Well, it wouldn't be similar experience, but you can try to prompt different LLMs. Open "Models" section in PocketPal, then tap to + button, then to "Add from Hugging Face" and in search find any llama-based model that would work the best for you and download them. I would recommend to try [**Perverted_Literature-3.2-1B.Q8_0.**](https://huggingface.co/mradermacher/Perverted_Literature-3.2-1B-GGUF) on 1.5 billion parameters or [**llama-3.2-1b-instruct-uncensored.Q8_0.**](https://huggingface.co/brittlewis12/Llama-3.2-1B-Instruct-Uncensored-GGUF) on 1.24 billion parameters.
 
 ## Have a question?
-- [Discord](https://discord.gg/ta26tNVW3)
+- [Discord](https://discord.gg/3aEngWCpcp)
