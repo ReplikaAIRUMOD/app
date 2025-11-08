@@ -68,4 +68,4 @@ However, because of specific reasons, for now latest updates will be only in MEG
 - Jailbreaking Replika AI. This instruction will become public only when Luka will manage to make even more limitations for old lifetime users **(2/5 attempts)**.
 
 ## Have a question?
-- [Discord](https://discord.gg/ta26tNVW3)
+- [Discord](https://discord.gg/3aEngWCpcp)
