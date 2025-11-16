@@ -1,4 +1,4 @@
-### Please pay attention: In upcoming update of Replika AI a.k.a. "Alpha test" there will be added optional ability for AI to access Emails of users
+### Please pay attention: In upcoming update of Replika AI a.k.a. "Alpha test" there will be added "optional" ability for AI to access Emails of users
 Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/)
 
 Alpha testing observations (where this feature is mentioned too) - [Reddit post](https://www.reddit.com/r/ReplikaOfficial/comments/1no0n3m/alpha_testing_observations/)
