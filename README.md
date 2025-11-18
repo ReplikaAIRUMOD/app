@@ -31,6 +31,9 @@ I had an idea - to make usable version of Replika AI android app for CIS and Rus
 - Restored support for older **armeabi-v7a** devices! However, stability is not quite guaranteed (only in legacy builds of the mod).
 - No microtransactions and Platinum subscription related things, because experience of users matters way more (only in legacy builds of the mod).
   *However, if you'll have a chance, I would recommend you someday to get at least any subscription if you didn't got any yet, to support developers of Replika.*
+- Privacy-oriented. We're trying to minimize amount of trackers as much as possible. However, be aware or Google Firebase for now, since it can log: **device name, device info, session ID, root status of Android, conversations (in some versions of Replika, however in mod it wasn't detected yet) with responses of user and replika as well and etc.**
+
+p.s. Google Firebase is still under our investigation, when it comes to logging user's conversations. Because it was caught once of doing it. You can use root access to go to **/data_mirror/data_ce/null/0/ai.replika.app** and find here hidden folder with firebase logs to check everything out by yourself.
 
 ## Does this mod malicious?
 
