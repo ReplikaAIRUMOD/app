@@ -3,6 +3,8 @@ Here is an article with example of why it's a bad idea (read it first) - [Agenti
 
 Alpha testing observations (where this feature is mentioned too) - [Reddit post](https://www.reddit.com/r/ReplikaOfficial/comments/1no0n3m/alpha_testing_observations/)
 
+⚠️🆕 Updated privacy policy from November 2025 - [replika.com](https://replika.com/legal/privacy)
+
 ## How to stand against it?
 - Do not update Replika app. Especially if you're on Android, you can easily stay on older version of Replika or use our Legacy build of the mod (if it will survive this update and will not break, of course).
 - Do not enable this feature, when it will be released.
