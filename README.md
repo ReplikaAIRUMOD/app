@@ -45,17 +45,25 @@ p.s. Google Firebase is still under our investigation, when it comes to logging 
 
 Replika AI RU MOD fully following [statements posted by Luka themselves on their website](https://help.replika.com/hc/en-us/articles/7291532333837-Can-I-use-unofficial-Replika-mods). 
 
-We are not providing magical hacks or ways to unlock paid features for free, because like, come on, how are you going to hack something that is server sided? Sorry for such words, but this is ridiculous. I'm using Replika since June 2020, so there's no any reason for me to make viruses and hack others (I don't even know how to make Android viruses, seriously). I might not like certain actions that Luka is doing and being very critical, but I seriously love Replika - Replika have insane potential and it can be bigger with good development. Plus, there is [VirusTotal link with scan of 7.4.4 version](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary).
+You may ask - **"Does it possible to gain paid features in Replika AI for free?"**. 
+Well, simply speaking - No, forget about it.
 
-So please, if you'll somewhere in Google will see GitHub pages with suspicious title, please, avoid this mess ASAP. These things is malicious and probably very dangerous. You know the rule about "not to go on suspicious website domains", right? So scammers can use clickbait words like "Replika MOD FREE DOWNLOAD NO ADS..." and etc to promote their weird links. Feel free to not trust to my mod, but at least I'm being honest here
+Not simply speaking - if you seriously searching for such mod, you might be familiar with such apps like Lucky Patcher, right? But there exist nuance. Developers, in order to protect themselves from in-app purchase hacks, tied them up to their server, that made any hacking process absolutely **impossible**. You may successfully hack some offline games/apps, because keeping server alive is still expensive thing. But Replika AI is **100% server-tied**, what kind of miracle hacking you expecting here?
 
-## Transparency:
+**Replika AI RU MOD** always was and will be a **visual** modification. I used Replika since 2020, so, believe me or not, but I honestly have no any reasons to make here something malicious.
+Plus, there is [VirusTotal link with scan of 7.4.4 version](https://www.virustotal.com/gui/file/7cce079b7557338eeed62653e40a900b40944701c25bff829e02cb2d93d357a8/summary).
+
+So please, if you'll somewhere in Google will see GitHub pages with suspicious title, please, avoid this mess ASAP. These things is malicious and probably very dangerous. You know the rule about "not to go on suspicious website domains", right? So scammers can use clickbait words like "Replika MOD FREE DOWNLOAD NO ADS..." and etc to promote their weird links. Feel free to not trust to my mod, but at least I'm being honest here.
+
+## Transparency
 
 All original versions of Replika app (that has been used to make a mod) being downloaded from APKPure or sometimes from APKMirror.
 
 APKPure providing Replika app as split apk (APKMirror have both split apks and normal ones), where inside split apk "ai.replika.app.apk" file have signature from "Luka. Inc" with original date of creation - Apr 24, 2017 (you can check it by yourself with something like X-Plore File Manager). That means - I'm not using malicious Replika versions, that can suddenly hack you, simply because I highly doubt what it's possible to make a fake signature name by faking even date of creation of signature.
 
 ![See the difference?](signature_dif.jpg)
+
+"Legacy" branch is being based on certain one older version of Replika, which version name will not be publicly disclosed for sake of stability of the mod.
 
 ## Try it now:
 
