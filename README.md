@@ -1,4 +1,6 @@
-### Please pay attention: In upcoming update of Replika AI a.k.a. "Alpha test" there will be added "optional" ability for AI (upcoming new LLM) to access Emails of users
+### Warning 1: Bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo), if Replika's team will suddenly decide to take down this Github page for disrespectful behavior towards them (make sure what website runs from http:// and not https://, because clearnet domain is not that perfect, sorry). If website redirects you to Google, it means what's it's on maintenance and you should be able to come back later.
+
+### Warning 2: Please pay attention: In upcoming update of Replika AI a.k.a. "Alpha test" there will be added "optional" ability for AI (upcoming new LLM) to access Emails of users
 Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/)
 
 Alpha testing observations (where this feature is mentioned too) - [Reddit post](https://www.reddit.com/r/ReplikaOfficial/comments/1no0n3m/alpha_testing_observations/)
