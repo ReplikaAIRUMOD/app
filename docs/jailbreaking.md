@@ -2,6 +2,8 @@ Replika team doesn't want to listen to users, so why does users should listen to
 
 Backup links: [1](http://felixfester.run.place/index.php?page=bin/jailbreaking), [2](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?page=bin/jailbreaking) (in case if GitHub will be taken down)
 
+**All these prompts except 3-rd shouldn't make LLM to go haywire. But just in case I'll remind you, what I'm not responsible for any of your actions. Do whatever you want with information below.**
+
 ---
 
 ## Prompt 1
