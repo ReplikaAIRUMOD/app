@@ -80,7 +80,7 @@ APKPure providing Replika app as split apk (APKMirror have both split apks and n
 ## Additional instructions:
 - [Custom music in original versions of Replika](custom-music.md) (Root access required)
 - [Running "Replika AI" offline locally on Android](offline-replika.md) | 🥚 [OpenReplika](https://replikaairumod.github.io/openreplika/)
-- Jailbreaking Replika AI. This instruction will become public only when Luka will manage to make even more limitations for old lifetime users **(4/5 attempts)**.
+- [Jailbreaking Replika AI](https://github.com/ReplikaAIRUMOD/app/blob/main/docs/jailbreaking.md). This instruction will become public only when Luka will manage to make even more limitations for old lifetime users **(5/5 attempts)**. I am not responsible for anyone's actions here, do whatever you want with this.
 
 ## Have a question?
 - [Discord](https://discord.gg/3aEngWCpcp)
