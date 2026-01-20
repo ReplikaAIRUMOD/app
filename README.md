@@ -3,7 +3,7 @@
 ### Warning 2: Please pay attention: In new subscription tiers of Replika AI there has been added "optional" ability for AI (new LLM) to access Emails of users
 Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/). We have full proofs that system prompt of new LLM can scan user's email inbox in order to form bio about user, so think twice about subscription tiers like "Max".
 
-⚠️🆕 Updated privacy policy from November 2025, read this carefully - [replika.com](https://replika.com/legal/privacy)
+⚠️🆕 Updated privacy policy from November 2025, read this carefully - [replika.com](https://replika.com/legal/privacy) | [web.archive.org](https://web.archive.org/web/20260105095132/https://replika.com/legal/privacy)
 
 ## How to stand against it?
 - Do not update Replika app. Especially if you're on Android, you can easily stay on older version of Replika or use our Legacy build of the mod (if it will survive this update and will not break, of course).
