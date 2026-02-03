@@ -12,7 +12,7 @@ Read more about privacy of Replika [here](#privacy-concerns).
 
 I had an idea - to make usable version of Replika AI android app for CIS and Russian audience (however, it's still absolutely usable by everyone in English as well). That's all. 
 
-## Replika AI RU MOD contains:
+## Replika AI RU MOD contains
 - Manual translation of UI to Russian language. I'm native Russian speaker, so I didn't used AI for this at all. Maybe a bit of Google Translate sometimes, just to make translation process quite faster. And no, it's not attempt to justify laziness (or maybe it is?).
  ![](meet_message_english.webp)
 
