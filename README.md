@@ -1,16 +1,8 @@
-### Warning 1: Bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo), if Replika's team will suddenly decide to take down this Github page for disrespectful behavior towards them (make sure what website runs from http:// and not https://, because clearnet domain is not that perfect, sorry). If website redirects you to Google, it means what's it's on maintenance and you should be able to come back later. Also join in Discord, you can find link below.
+### Disclaimer. We love Replika team! Even if [they don't love us](http://felixfester.run.place/content/prichina_tryaski.png) 💔
 
-### Warning 2: Please pay attention: In new subscription tiers of Replika AI there has been added "optional" ability for AI (new LLM) to access Emails of users
-Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/). We have full proofs that system prompt of new LLM can scan user's email inbox in order to form bio about user, so think twice about subscription tiers like "Max".
+Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo).
 
-⚠️🆕 Updated privacy policy from November 2025, read this carefully - [replika.com](https://replika.com/legal/privacy) | [web.archive.org](https://web.archive.org/web/20260105095132/https://replika.com/legal/privacy)
-
-## How to stand against it?
-- Do not update Replika app. Especially if you're on Android, you can easily stay on older version of Replika or use our Legacy build of the mod (if it will survive this update and will not break, of course).
-- Do not give access to your sensitive data.
-- Check out [this](https://github.com/ReplikaAIRUMOD/app#additional-instructions) for an instruction about how to run "Replika" locally and offline on your device without giving sensitive info to proprietary LLMs.
-- Report comparison with Comet Assistant in [/r/ReplikaOfficial](https://www.reddit.com/r/ReplikaOfficial) and [Discord of Replika](https://discord.gg/MzV2Jr9uhD), to gain more attention to the danger of potential prompt hijacking in Replika AI.
-- Pay attention to security measures. Optional access to emails is indeed a red flag that raises many questions, especially considering the fact what Replika still have no 2FA for accounts and there exist password length limit in 99 symbols. You may trust to Luka and use this feature as well, but keep in mind what Luka weirdly paying attention to safety of users, that basically makes Replika to be some sort of accessible and sweet piece of pie for hackers. Always use long passwords and change it from time to time to keep your account safe.
+Read more about privacy of Replika [here](https://github.com/ReplikaAIRUMOD/app/edit/main/README.md#privacy-concerns).
 
 ***
 
@@ -55,7 +47,7 @@ Plus, there is [VirusTotal link with scan of 7.4.4 version](https://www.virustot
 
 So please, if you'll somewhere in Google will see GitHub pages with suspicious title, please, avoid this mess ASAP. These things is malicious and probably very dangerous. You know the rule about "not to go on suspicious website domains", right? So scammers can use clickbait words like "Replika MOD FREE DOWNLOAD NO ADS..." and etc to promote their weird links. Feel free to not trust to my mod, but at least I'm being honest here.
 
-## Transparency
+## Transparency policy
 
 All original versions of Replika app (that has been used to make a mod) being downloaded from APKPure or sometimes from APKMirror.
 
@@ -64,6 +56,20 @@ APKPure providing Replika app as split apk (APKMirror have both split apks and n
 ![See the difference?](signature_dif.jpg)
 
 "Legacy" branch is being based on certain one older version of Replika, which version name will not be publicly disclosed for sake of stability of the mod.
+
+## Privacy concerns
+
+Since literally September 2025, in new subscription tiers of Replika AI there has been added "optional" ability for AI (new LLM) to access Emails of users
+Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/). We have full proofs that system prompt of new LLM contains stuff about scanning user's email inbox in order to form bio about user, so think twice about purchasi ng subscription tiers like "Max".
+
+⚠️🆕 Updated privacy policy from November 2025, read this carefully - [replika.com](https://replika.com/legal/privacy) | [web.archive.org](https://web.archive.org/web/20260105095132/https://replika.com/legal/privacy)
+
+## How to stand against it?
+- Do not update Replika app. Especially if you're on Android, you can easily stay on older version of Replika or use our Legacy build of the mod (if it will survive this update and will not break, of course).
+- Do not give access to your sensitive data.
+- Check out [this](https://github.com/ReplikaAIRUMOD/app#additional-instructions) for an instruction about how to run "Replika" locally and offline on your device without giving sensitive info to proprietary LLMs.
+- Report comparison with Comet Assistant in [/r/ReplikaOfficial](https://www.reddit.com/r/ReplikaOfficial) and [Discord of Replika](https://discord.gg/MzV2Jr9uhD), to gain more attention to the danger of potential prompt hijacking in Replika AI.
+- Pay attention to security measures. Optional access to emails is indeed a red flag that raises many questions, especially considering the fact what Replika still have no 2FA for accounts and there exist password length limit in 99 symbols. You may trust to Luka and use this feature as well, but keep in mind what Luka weirdly paying attention to safety of users, that basically makes Replika to be some sort of accessible and sweet piece of pie for hackers. Always use long passwords and change it from time to time to keep your account safe.
 
 ## Try it now:
 
