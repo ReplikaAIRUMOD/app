@@ -1,6 +1,6 @@
 ### Disclaimer. We love Replika team! Even if [they don't love us](http://felixfester.run.place/content/prichina_tryaski.png) 💔
 
-Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo).
+Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo) (website will not work under "https://" protocol).
 
 Read more about privacy of Replika [here](#privacy-concerns).
 
