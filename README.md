@@ -61,7 +61,7 @@ APKPure providing Replika app as split apk (APKMirror have both split apks and n
 
 ## Privacy concerns
 
-Since literally September 2025, in new subscription tiers of Replika AI there has been added "optional" ability for AI (new LLM) to access Emails of users
+Since literally September 2025, Replika team started to test their new AI model with agentic features. And now in new subscription tiers of Replika AI there has been added "optional" ability for AI (new LLM) to access Emails of users.
 Here is an article with example of why it's a bad idea (read it first) - [Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet ](https://brave.com/blog/comet-prompt-injection/). We have full proofs that system prompt of new LLM contains stuff about scanning user's email inbox in order to form bio about user, so think twice about purchasing subscription tiers like "Max".
 
 ⚠️🆕 Updated privacy policy from November 2025, read this carefully - [replika.com](https://replika.com/legal/privacy) | [web.archive.org](https://web.archive.org/web/20260105095132/https://replika.com/legal/privacy)
