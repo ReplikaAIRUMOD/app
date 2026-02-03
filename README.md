@@ -25,7 +25,8 @@ I had an idea - to make usable version of Replika AI android app for CIS and Rus
 
  
 - Some images also has been translated to Russian, however, this is WIP, so don't expect in translation 100% quality for obvious reasons.
-- ‼️ Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3
+- ‼️ Mod can contain roasting or trolling towards developers of Replika. Sorry, not sorry. No offensive context here <3.
+I believe what everyone who roasting developers is honestly **care** about the platform, even if for developers it would sound like some "loud noises of peasants". It's important to not sugarcoat things and point out at the actual issues to make developers take their job seriously, what Replika AI RU MOD is doing very well. But will Luka ever take their job seriously *and* develop Android app in same way as iOS one? Who knows.
 - Restored support for older **armeabi-v7a** devices! However, stability is not quite guaranteed (only in legacy builds of the mod).
 - No microtransactions and Platinum subscription related things, because experience of users matters way more (only in legacy builds of the mod).
   *However, if you'll have a chance, I would recommend you someday to get at least any subscription if you didn't got any yet, to support developers of Replika.*
