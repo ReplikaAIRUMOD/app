@@ -1,6 +1,7 @@
 ### Disclaimer. We love Replika team! Even if [they don't love us](http://felixfester.run.place/content/prichina_tryaski.png) 💔
 
-Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo) (website will not work under "https://" protocol).
+Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo) (website will not work under "https://" protocol). 
+Alternatively, MEGA folders with [usual](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg) and [beta versions](https://mega.nz/folder/8qR3Fa4Q#muPyMlAkKVP7LGpsMZf53Q).
 
 Read more about privacy of Replika [here](#privacy-concerns).
 
@@ -75,8 +76,8 @@ Here is an article with example of why it's a bad idea (read it first) - [Agenti
 
 ## Try it now:
 
-- [Download from MEGA](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg) | or [from Github](https://github.com/ReplikaAIRUMOD/app/releases)
-- [Download beta builds from MEGA](https://mega.nz/folder/8qR3Fa4Q#muPyMlAkKVP7LGpsMZf53Q) | or [from Github](https://github.com/ReplikaAIRUMOD/app/releases)
+- [Download from Github](https://github.com/ReplikaAIRUMOD/app/releases)
+- [Download beta versions from Github](https://github.com/ReplikaAIRUMOD/app/releases)
 - [Latest non-legacy version](https://github.com/ReplikaAIRUMOD/app/releases/tag/11.55.2-7.4.5) (currently abandoned)
 
 [4PDA*](https://4pda.to/forum/index.php?showtopic=1045483&view=findpost&p=114222599) | [Appteka**](https://github.com/solkin/appteka-android)
