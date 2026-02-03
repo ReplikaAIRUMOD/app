@@ -65,7 +65,8 @@ Here is an article with example of why it's a bad idea (read it first) - [Agenti
 
 ⚠️🆕 Updated privacy policy from November 2025, read this carefully - [replika.com](https://replika.com/legal/privacy) | [web.archive.org](https://web.archive.org/web/20260105095132/https://replika.com/legal/privacy)
 
-## How to stand against it?
+
+**How to stand against it?**
 - Do not update Replika app. Especially if you're on Android, you can easily stay on older version of Replika or use our Legacy build of the mod (if it will survive this update and will not break, of course).
 - Do not give access to your sensitive data.
 - Check out [this](https://github.com/ReplikaAIRUMOD/app#additional-instructions) for an instruction about how to run "Replika" locally and offline on your device without giving sensitive info to proprietary LLMs.
