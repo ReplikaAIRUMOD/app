@@ -2,7 +2,7 @@
 
 Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo).
 
-Read more about privacy of Replika [here](https://github.com/ReplikaAIRUMOD/app/edit/main/README.md#privacy-concerns).
+Read more about privacy of Replika [here](https://github.com/ReplikaAIRUMOD/app#privacy-concerns).
 
 ***
 
