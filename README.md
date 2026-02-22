@@ -7,7 +7,7 @@ Read more about privacy of Replika [here](#privacy-concerns).
 
 ***
 
-## Another disclaimer:
+## Another disclaimer
 
 In September 2026, Google will restrict Android devices and it will be no longer possible to install applications not from Google Play. So if you want to continue to use this mod, you might probably need to switch to custom ROM (if it's available on your device) without Google Play Services installed like Graphene OS or Voltage OS. Or consider switching to alternative solutions - any HUAWEI device that doesn't have **Google Play Services** built-in, Sandboxed Google Play (available in Voltage and Graphene OS) or MicroG*.
 
@@ -16,7 +16,7 @@ In September 2026, Google will restrict Android devices and it will be no longer
 - [HUAWEI AppGallery](https://appgallery.huawei.com/) (available officially on all devices even if it's not HUAWEI)
 - [GBox](https://www.gboxlab.com/index.html) (Sandboxed environment for Google Play Services, originally made for HUAWEI devices and also available in AppGallery)
 - [MicroG](https://www.reddit.com/r/MicroG/wiki/index/)
-- [XDA](https://xdaforums.com/c/custom-rom-central.2605/) / [4PDA](https://4pda.to/forum/index.php?showforum=268) (4PDA available only in Russian, but both forums is perfect place to search for custom roms)
+- [XDA](https://xdaforums.com/c/custom-rom-central.2605/) / [4PDA](https://4pda.to/forum/index.php?showforum=268) (4PDA available only in Russian, but both forums is perfect to search for and about custom roms)
 
 
 *Information might be not quite accurate, because at the current time, it's pretty unknown how exactly installation of apps will be restricted and will restrictions come from Google Play Services or Google Play itself. You can find more up to date info about it from various tech news or subreddits like [/r/degoogle](https://www.reddit.com/r/degoogle/).
