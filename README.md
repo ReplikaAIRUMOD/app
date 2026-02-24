@@ -109,5 +109,5 @@ Here is an article with example of why it's a bad idea (read it first) - [Agenti
 - [Jailbreaking Replika AI](https://github.com/ReplikaAIRUMOD/app/blob/main/docs/jailbreaking.md). This instruction will become public only when Luka will manage to make even more limitations for old lifetime users **(5/5 attempts)**. I am not responsible for anyone's actions here, do whatever you want with this.
 
 ## Have a question?
-- [Discord](https://discord.gg/3aEngWCpcp)
+- ~~[Discord](https://discord.gg/3aEngWCpcp)~~ [Stoat](https://stt.gg/dFAhMv8Z)
 - [X](https://x.com/felixfester)
