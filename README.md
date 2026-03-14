@@ -110,4 +110,5 @@ Here is an article with example of why it's a bad idea (read it first) - [Agenti
 
 ## Have a question?
 - ~~[Discord](https://discord.gg/3aEngWCpcp)~~ [Stoat](https://stt.gg/dFAhMv8Z)
+- [Telegram](https://t.me/+KgsTv4daKPs3N2I6)
 - [X](https://x.com/felixfester)
