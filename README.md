@@ -1,7 +1,7 @@
 ### Disclaimer. We love Replika team! Even if [they don't love us](http://felixfester.run.place/content/prichina_tryaski.png) 💔
 
 Just in case bookmark [repository of our mod](http://felixfester.run.place/index.php?replikarepo) or [it's mirror in Tor Browser](http://roe2qf73bjyygwl4gib36j4rer7khug6oy5ag6e27q5oz57pgxfkguyd.onion/index.php?replikarepo) (website will not work under "https://" protocol). 
-Alternatively, MEGA folders with [usual](https://mega.nz/folder/tqpn1BTa#9Or7iGh_Q6SQJF_J5-I5sg) and [beta versions](https://mega.nz/folder/8qR3Fa4Q#muPyMlAkKVP7LGpsMZf53Q).
+Alternatively, [join to our Telegram channel](https://t.me/+KgsTv4daKPs3N2I6).
 
 Read more about privacy of Replika [here](#privacy-concerns).
 
@@ -109,6 +109,4 @@ Here is an article with example of why it's a bad idea (read it first) - [Agenti
 - [Jailbreaking Replika AI](https://github.com/ReplikaAIRUMOD/app/blob/main/docs/jailbreaking.md). This instruction will become public only when Luka will manage to make even more limitations for old lifetime users **(5/5 attempts)**. I am not responsible for anyone's actions here, do whatever you want with this.
 
 ## Have a question?
-- ~~[Discord](https://discord.gg/3aEngWCpcp)~~ [Stoat](https://stt.gg/dFAhMv8Z)
 - [Telegram](https://t.me/+KgsTv4daKPs3N2I6)
-- [X](https://x.com/felixfester)
